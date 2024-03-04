@@ -1,0 +1,1 @@
+[{"Name":"PHPSESSID","Value":"0egm7agc721h7esshd174se874","Domain":"www.armytrika.cz","Path":"\/","Max-Age":null,"Expires":null,"Secure":false,"Discard":false,"HttpOnly":false},{"Name":"id_hosta","Value":"562810791","Domain":"www.armytrika.cz","Path":"\/","Max-Age":604800,"Expires":1710174362,"Secure":false,"Discard":false,"HttpOnly":false}]
